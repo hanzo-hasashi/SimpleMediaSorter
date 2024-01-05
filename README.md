@@ -2,7 +2,7 @@
 ![SMS](https://github.com/hanzo-hasashi/SimpleMediaSorter/blob/main/MediaSorter.png)
 - Set of Python scripts to sort and rename media files...
 - This mainly utilizes the EXIF plugin to extract metadata and perform operations accordingly.
-- Useful when working on media files from different sources like merging local and Google Photo Takeout files.
+- Useful when working on media files from different sources like merging local and Google Photos Takeout files.
 - Please take a backup of your files before performing any action using the script!
 
 ## Configuration
